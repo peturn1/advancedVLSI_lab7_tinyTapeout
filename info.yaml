@@ -34,14 +34,14 @@ pinout:
   ui[7]: "A[3]"
 
   # Outputs
-  uo[0]: "S[0]"
-  uo[1]: "S[1]"
-  uo[2]: "S[2]"
-  uo[3]: "S[3]"
-  uo[4]: "S[4]"
-  uo[5]: "S[5]"
-  uo[6]: "S[6]"
-  uo[7]: "S[7]"
+  uo[0]: "P[0]"
+  uo[1]: "P[1]"
+  uo[2]: "P[2]"
+  uo[3]: "P[3]"
+  uo[4]: "P[4]"
+  uo[5]: "P[5]"
+  uo[6]: "P[6]"
+  uo[7]: "P[7]"
 
   # Bidirectional pins
   uio[0]: ""

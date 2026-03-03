@@ -13,8 +13,8 @@ This project takes two 4-bit inputs (A and B), multiplies them, and outputs an 8
 
 ## How to test
 
-Explain how to use your project
+The project is tested in ModelSim 2019.1 using the provided testbench
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware is used in this project
